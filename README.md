@@ -1,1 +1,1 @@
-# weekly-notes
+# weekly notes
